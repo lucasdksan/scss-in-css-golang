@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,UAAW,CACP,KAAK,CAAE,IAAI,CAEX,YAAI,CACA,eAAe,CAAE,IAAI",
+"sources": ["../scss/exemplo.scss"],
+"names": [],
+"file": "exemplo.css"
+}
